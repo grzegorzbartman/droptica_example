@@ -28,8 +28,9 @@ dependencies[] = search_api_elasticsearch_elastica
 dependencies[] = devel
 dependencies[] = devel_generate
 dependencies[] = module_filter
+dependencies[] = redis
 
-; Information added by Drupal.org packaging script on 2015-10-21
+; Information added by wodzik on 2015-12-11
 version = "7.41"
 project = "drupal"
 datestamp = "1445457729"
