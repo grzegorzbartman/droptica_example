@@ -21,7 +21,6 @@ dependencies[] = shortcut
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
-dependencies[] = adminimal_theme
 dependencies[] = admin_menu
 dependencies[] = adminimal_admin_menu
 
