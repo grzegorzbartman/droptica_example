@@ -23,6 +23,11 @@ dependencies[] = file
 dependencies[] = rdf
 dependencies[] = admin_menu
 dependencies[] = adminimal_admin_menu
+dependencies[] = search_api_elasticsearch
+dependencies[] = search_api_elasticsearch_elastica
+dependencies[] = devel
+dependencies[] = devel_generate
+dependencies[] = module_filter
 
 ; Information added by Drupal.org packaging script on 2015-10-21
 version = "7.41"
